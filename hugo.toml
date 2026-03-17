@@ -20,3 +20,14 @@ paginate = 5
   identifier = "posts"
   name = "posts"
   url = "/posts"
+
+[params.homeSubtitle]
+  enabled = true
+
+[params.social]
+  github = "Ram-Narayan-3414"
+  linkedin = "ramanarayan-av"
+
+[params.Logo]
+  logoText = "Warlock3414"
+  logoHomeLink = "/"
