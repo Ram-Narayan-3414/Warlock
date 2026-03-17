@@ -2,7 +2,8 @@ baseURL = "https://warlock3414.netlify.app/"
 languageCode = "en-us"
 title = "warlock3414"
 theme = "terminal"
-paginate = 5
+[pagination]
+  pagerSize = 5
 
 [params]
   contentTypeName = "posts"
