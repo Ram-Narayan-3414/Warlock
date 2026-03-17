@@ -5,7 +5,7 @@ draft: false
 ---
 
 OSCP certified penetration tester.
-Writing about what I break, what I build, and how I learn.
+Trying to artiuclate about what I break, what I build, and how I learn.
 
 - HTB: warlock3414
 - GitHub: github.com/Ram-Narayan-3414
