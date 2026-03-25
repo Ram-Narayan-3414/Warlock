@@ -1,6 +1,6 @@
 baseURL = "https://warlock3414.netlify.app/"
 languageCode = "en-us"
-title = "warlock3414"
+title = "Warlock"
 theme = "terminal"
 [pagination]
   pagerSize = 5
@@ -13,8 +13,8 @@ theme = "terminal"
   centerTheme = true
 
 [[menu.main]]
-  identifier = "about"
-  name = "about"
+  identifier = "About"
+  name = "About"
   url = "/about"
 
 [[menu.main]]
@@ -30,5 +30,5 @@ theme = "terminal"
   linkedin = "ramanarayan-av"
 
 [params.Logo]
-  logoText = "Warlock3414"
+  logoText = "Warlock"
   logoHomeLink = "/"
