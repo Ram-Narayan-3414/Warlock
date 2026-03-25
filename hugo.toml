@@ -18,8 +18,8 @@ theme = "terminal"
   url = "/about"
 
 [[menu.main]]
-  identifier = "posts"
-  name = "posts"
+  identifier = "Posts"
+  name = "Posts"
   url = "/posts"
 
 [params.homeSubtitle]
